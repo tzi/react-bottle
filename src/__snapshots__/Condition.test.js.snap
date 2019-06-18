@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Else component 1`] = `"Else"`;
+
+exports[`renders Else if component 1`] = `"Else if"`;
+
+exports[`renders Then component 1`] = `"Then"`;
+
+exports[`renders via a render prop 1`] = `"Then via render prop"`;

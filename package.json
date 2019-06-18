@@ -1,0 +1,24 @@
+{
+  "version": "0.0.0",
+  "name": "react-bottle",
+  "description": "Simple components to write conditions in React",
+  "repository": "git@github.com:tzi/react-bottle.git",
+  "licence": "MIT",
+  "dependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "react-test-renderer": "^16.8.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
